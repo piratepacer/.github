@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Download Here](https://github.com/piratepacer/Deimos-Pirate101)
+[Download Here]([https://github.com/piratepacer/Deimos-Pirate101](https://github.com/piratepacer/Deimos-Pirate101/releases))
 
 ![Client](./client.png)
 <!--
